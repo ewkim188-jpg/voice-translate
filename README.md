@@ -64,6 +64,4 @@ voice-translate/
 
 ---
 
-## 📄 License
 
-MIT License © 2026 ewkim188-jpg
